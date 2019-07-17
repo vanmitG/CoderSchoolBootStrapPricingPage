@@ -1,0 +1,12 @@
+.box-shadow {
+  box-shadow: 0 0.25rem 0.75rem rgba(0, 0, 0, 0.05);
+}
+
+a:hover {
+  color: red !important;
+}
+
+footer {
+  height: 5rem;
+  background-color: #f8f9fa;
+}
